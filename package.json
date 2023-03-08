@@ -1,0 +1,28 @@
+{
+  "name": "@alfredobaratta/reverse-words",
+  "version": "1.0.0",
+  "description": "Reverse words in a text quickly and easily!",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredo-baratta/reverse-words.git"
+  },
+  "keywords": [
+    "reverse-words",
+    "text"
+  ],
+  "author": "Alfredo Baratta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfredo-baratta/reverse-words/issues"
+  },
+  "homepage": "https://github.com/alfredo-baratta/reverse-words#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.14.6",
+    "lodash": "^4.17.21"
+  }
+}
